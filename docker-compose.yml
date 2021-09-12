@@ -3,7 +3,6 @@ services:
   cliboa:
     build: ./docker/
     container_name: cliboa
-    command: pip install ./cliboa/
     volumes:
       - $PWD:/usr/local/cliboa-dev
     working_dir: /usr/local/cliboa-dev

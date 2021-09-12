@@ -10,4 +10,4 @@ Procedure
 4. Execute cliboa/tools/script/init_dev.py
 5. Install package by generated Pipfile
 6. Follow the cliboa documentation to start and develop your project.
-7. If your PYTHONPATH is not working, you can directly install ./cliboa.
+7. If your PYTHONPATH is not working, you can directly install ./cliboa in pipenv shell.
